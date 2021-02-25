@@ -34,5 +34,5 @@ Commonly known as the NATO phonetic alphabet, the International Radiotelephony S
 Type the word or phrase you have to spell. The programm will return you the Nato Alphabet code for it.
 
 
-This code use panda and list and dictionnary comprehension
+This code use pandas and list and dictionnary comprehension
 
