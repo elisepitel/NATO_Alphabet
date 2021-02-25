@@ -33,3 +33,6 @@ Commonly known as the NATO phonetic alphabet, the International Radiotelephony S
 ## How to use this python code:
 Type the word or phrase you have to spell. The programm will return you the Nato Alphabet code for it.
 
+
+This code use panda and list and dictionnary comprehension
+
